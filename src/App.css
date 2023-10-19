@@ -1,0 +1,33 @@
+.login .card{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    padding: 20px 50px;
+    border-radius: 5px;
+    -webkit-box-shadow: -1px 7px 31px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 7px 31px -6px rgba(0,0,0,0.75);
+    box-shadow: -1px 7px 31px -6px rgba(0,0,0,0.75);
+}
+.login input{
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 3px;
+    border: 1px solid rgb(194, 193, 193);
+}
+.login .login-btn{
+    padding: 10px;
+    background-color: rgb(4, 197, 68);
+    border-radius: 3px;
+    border: 1px solid rgb(194, 193, 193);
+    cursor: pointer;
+    color: #fff;
+}
+.signup-btn{
+    padding: 10px;
+    background-color: rgb(9, 113, 179);
+    border-radius: 3px;
+    border: 1px solid rgb(194, 193, 193);
+    cursor: pointer;
+    color: #fff;
+}
